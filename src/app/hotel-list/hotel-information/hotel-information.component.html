@@ -1,0 +1,30 @@
+<div class="col-md-6 offset-md-3">
+    <h3>View Resturant Details</h3>
+    <mat-card class="card-style">
+        <div>
+            <div class="view-style">
+                <label> Resturant Name: </label> {{hotelData[0].hotelName}} 
+            </div>
+            <div class="view-style">
+                <label> Location: </label> {{hotelData[0].location}} 
+            </div>
+            <div class="view-style">
+                <label> Description: </label> {{hotelData[0].description}} 
+            </div>
+            <div class="view-style">
+                <label> Cuisine Type: </label> {{hotelData[0].cuisineType}} 
+            </div>
+            <div class="view-style">
+                <label> Contact: </label> {{hotelData[0].contact}} 
+            </div>
+            <div class="view-style">
+                <label> Rating: </label> {{hotelData[0].hotelRating}}  
+            </div>
+            <div class="view-style">
+                <label> Seating Capacity: </label>  {{hotelData[0].seatingCapacity}} 
+            </div>
+        </div>
+    </mat-card>
+
+    <button (click)="onBack()" class = "btn btn-outline-danger btn-cls" type ="submit">Close</button>
+</div>

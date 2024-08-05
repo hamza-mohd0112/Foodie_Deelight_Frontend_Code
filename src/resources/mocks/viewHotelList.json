@@ -1,0 +1,52 @@
+  [
+    {
+        "hotelID": 109877,
+        "hotelName": "Grand Palace",
+        "description": "Luxury hotel with premium amenities.",
+        "location": "Delhi, Delhi",
+        "cuisineType": "Continental",
+        "contact": "9876543210",
+        "hotelRating": "5",
+        "seatingCapacity": "120"
+    },
+    {
+        "hotelID": 109878,
+        "hotelName": "Sea Breeze",
+        "description": "Cozy beachside hotel with seafood specialty.",
+        "location": "Goa, Goa",
+        "cuisineType": "Seafood",
+        "contact": "7894561230",
+        "hotelRating": "4",
+        "seatingCapacity": "80"
+    },
+    {
+        "hotelID": 109879,
+        "hotelName": "Mountain View",
+        "description": "Scenic hotel with mountain views and local cuisine.",
+        "location": "Shimla, Himachal Pradesh",
+        "cuisineType": "Himalayan",
+        "contact": "4567891230",
+        "hotelRating": "4",
+        "seatingCapacity": "50"
+    },
+    {
+        "hotelID": 109880,
+        "hotelName": "Urban Retreat",
+        "description": "Modern hotel in the city center with a diverse menu.",
+        "location": "Mumbai, Maharashtra",
+        "cuisineType": "Multi-Cuisine",
+        "contact": "3216549870",
+        "hotelRating": "3",
+        "seatingCapacity": "100"
+    },
+    {
+        "hotelID": 109881,
+        "hotelName": "The Oberoi",
+        "description": "Elegant hotel offering luxurious services and fine dining.",
+        "location": "Bengaluru, Karnataka",
+        "cuisineType": "Indian",
+        "contact": "9988776655",
+        "hotelRating": "5",
+        "seatingCapacity": "150"
+    }
+]
